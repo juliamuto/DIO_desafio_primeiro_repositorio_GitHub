@@ -12,6 +12,8 @@ Segue a ordem de uso do Git normalmente
   - opção "-A" ou . adiciona tudo, mas o ponto não considera remoções
 
 - git commit -m "mensagem"
-- faz o commit do repositório. "-m" inclui a mensagem, que deve explicar as mudanças realizadas
+  -  faz o commit do repositório. "-m" inclui a mensagem, que deve explicar as mudanças realizadas
 - git push origin main
   - "origin" é convenção
+- git pull
+  - puxa as alterações feitas por outra pessoa, por exemplo  
